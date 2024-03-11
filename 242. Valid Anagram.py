@@ -1,9 +1,9 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
 
-        # Iterate the first string, Use a dict to store each character's frequency
-        # Iterate the second string, decrement each character's frequency
-        # see if every value in the dict is 0
+        # check if the length of each string is the same
+        if len(s) != len(t):
+            return False
 
         dictS = {}
         for char in s:
@@ -21,5 +21,5 @@ class Solution:
                 return False
         return True
 
-# Time: O(2N) = O(N)
-# Space: O(2N) = O(N)
+# Time: O(2N+M) = O(N), where M<=N, M is the number unique character in a string
+# Space: O(M), where M<=N, M is the number unique character in a string
