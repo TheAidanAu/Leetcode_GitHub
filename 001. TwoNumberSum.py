@@ -12,3 +12,5 @@ class Solution:
                 # store the complient and the first sum's position
                 dictSum[target - num] = i
         return []
+#Time: O(N)
+#Space: O(N)
