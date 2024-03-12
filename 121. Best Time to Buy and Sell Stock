@@ -1,0 +1,21 @@
+class Solution:
+    def maxProfit(self, prices: List[int]) -> int:
+        ## You want to use 2 pointers to iterate through the array
+        ## you want to buy at the lowest
+        ## so if you find the lowest price, you want to shift your left pointer all the way there
+
+        maxProfit = 0
+        l, r = 0, 1
+
+        while r < len(prices):
+            if prices[r] > prices[l]:
+                profit = prices[r] - prices[l]
+                maxProfit = max(profit, maxProfit)
+            else:
+                l = r
+            r += 1
+
+        return maxProfit
+
+# Time: O(N)
+# Space: O(1)
