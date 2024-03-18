@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6b6add-a5a9-4b53-8994-e378c780da96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/11. Container With Most Water.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/128. Longest Consecutive Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/141. Linked List Cycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15. 3Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/167. Two Sum II - Input Array Is Sorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20. Valid Parentheses" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21. Merge Two Sorted Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/238. Product of Array Except Self.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/347. Top K Frequent Elements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/424. Longest Repeating Character Replacement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/49. Group Anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Encode and Decode Strings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +32,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="2dKm4eYCEGOnfk7xVN5II0a5WzL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

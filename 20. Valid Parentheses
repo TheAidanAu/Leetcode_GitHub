@@ -1,0 +1,40 @@
+class Solution:
+    def isValid(self, s: str) -> bool:
+
+        stack = []  # just a Python list
+        # Use a dict because they have some correpsnding key-value pair
+        closeToOpen = {"}": "{",
+                       ")": "(",
+                       "]": "["}
+
+        # think of some edge cases
+        # if it starts with a closing parathensis, it won't work
+        # if it starts with multiple opening parathensis [[(())]] multiple
+        # as long as there're enough parathensis, you can close and cross out
+        for c in s:
+            # check if it's a closing,
+            if c in closeToOpen:
+                # check if the stack is not empty and what the top of the stack is
+                if stack and stack[-1] == closeToOpen[c]:
+                    stack.pop()
+                else:
+                    return False
+            # if it's an opening, you add it to the top of the stack
+            else:
+                stack.append(c)
+
+        if len(stack) == 0:
+            return True
+        else:
+            return False
+
+# Time: O(N)
+# Space: O(N)
+
+
+
+
+
+
+
+
