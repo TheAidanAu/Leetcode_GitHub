@@ -5,7 +5,8 @@ class Solution:
         # if the mid point val is too big, shift the r pointer to the mid
         l, r = 0, len(nums) - 1
 
-        # it's possible that both pointers meet as they converge
+        # edge case if there's 1 element only
+        # (also it's possible that both pointers meet as they converge)
         while l <= r:
             m = (l + r) // 2
             if nums[m] > target:
