@@ -6,9 +6,10 @@
 class Solution:
     def mergeTwoLists(self, list1: Optional[ListNode], list2: Optional[ListNode]) -> Optional[ListNode]:
 
-        # create a new linked list, starting with a dummy node
-        # set the tail to be the dummy node
-        # the goal is to update the tail all the way to the end
+        # create a new linked list.
+        # dummy and tails share the same reference at first.
+        # they both start with pointing right BEFORE the new head
+        # the goal is to advance the tail all the way to the end
         # When done, the head would be dummy's next
 
         dummy = ListNode()
