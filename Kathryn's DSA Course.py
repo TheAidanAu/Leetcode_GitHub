@@ -15,11 +15,6 @@ while printer_queue:
     doc = printer_queue.popleft() #FIFO
     print(doc)
 
-
-
-
-
-
 # Use list as a Stack
 book_stack = []
 

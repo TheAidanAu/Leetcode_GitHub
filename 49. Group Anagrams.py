@@ -1,9 +1,8 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        # use a dictionary, the key is the frequency of each unique character in each string
-        # the values are a list of anagrams
-        # be careful, a dictionary key has to be immuatable, so use a tuple
-        # then return these grouped anagrams
+        # use a dictionary, keys would be the freq. of the unique characters in each string
+        # values are a list of groupped anaagrams
+        # immutable, array then make it a tuple
         res = defaultdict(list)  # initialize a list for a non-existing key
 
         for s in strs:
