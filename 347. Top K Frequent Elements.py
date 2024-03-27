@@ -22,8 +22,8 @@ class Solution:
                 if len(res) == k:
                     return res
 
-    # time: O(N+N+N+k)= O(N)
-    # space: O(N+N+k)= O(N) 
+    # time: O(N+N+N+k)= O(N) 
+    # space: O(N+N+k)= O(N)
 
 
 
