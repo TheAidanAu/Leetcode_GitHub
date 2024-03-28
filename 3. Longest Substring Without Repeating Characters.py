@@ -3,7 +3,7 @@ class Solution:
         # sliding window, use a set to keep track of unique char
         # expand the window , as long as we see a dup char within curr window,
         # shrink the window until there's no dup in the curr window
-        # (shift the start pointer by 1
+        # (shift the left pointer by 1
         # remove that correspending char from the set so)
         # add unique char to the set and keep track of length (of the longest substring)
         # (when you see a dup, the dup isn't necessarily be the one on the left most,

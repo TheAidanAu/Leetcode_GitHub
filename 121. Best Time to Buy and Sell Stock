@@ -1,8 +1,10 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
-        ## You want to use 2 pointers to iterate through the array
-        ## you want to buy at the lowest
-        ## so if you find the lowest price, you want to shift your left pointer all the way there
+        # Initialize 2 pointers at the first 2 indexes
+        # you want to buy at the lowest
+        # compare the right indexed price with the left indexed price
+        # so if you find the lowest price,
+        # you want to shift your left pointer all the way there
 
         maxProfit = 0
         l, r = 0, 1

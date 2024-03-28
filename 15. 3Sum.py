@@ -2,7 +2,7 @@ class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         # sort input, for each first element, left pointer is followed by the current element
         # remember the main constrint: l < r
-        # Skip Duplicates: Avoid duplicate triplets by skipping identical numbers
+        # Skip Duplicates: Avoid duplicate triplets by skipping identical numbers starting at pos 1
         # during iteration and appending triplets,
         # Use Two Pointers: Iterate through each number in the sorted list.
         # For each number, use two pointers left/right on the remaining list

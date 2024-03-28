@@ -3,6 +3,7 @@ class Solution:
 
         # remove non-alphanumeric characters
         # convert to lower cases
+        # use indexing to check if the reverse is the same as the original
 
         converted = []
 
