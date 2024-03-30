@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6b6add-a5a9-4b53-8994-e378c780da96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/newfile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock" beforeDir="false" afterPath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/125. Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/125. Valid Palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15. 3Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/15. 3Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/347. Top K Frequent Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/347. Top K Frequent Elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/153. Find Minimum in Rotated Sorted Array.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

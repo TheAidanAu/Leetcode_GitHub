@@ -16,6 +16,6 @@ class Solution:
         # as l & r converages to 2 values only, l will be pointing at the min
         return nums[l]
     # time: O(logN)
-    # space: O(1)
+    # space: O(1)  1
 
 
