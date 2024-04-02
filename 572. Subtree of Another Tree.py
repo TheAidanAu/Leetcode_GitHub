@@ -33,4 +33,4 @@ class Solution:
                 self.isSubtree(s.right, t))
 
 # Time: O(S*T) for every node in S, we have to check all the nodes in T
-# Space: O(max(hs, ht)) because of the recursive calls made when we traverse the trees
+# Space: O(max(hs, ht)) because of the recursive calls made when we traverse the trees   

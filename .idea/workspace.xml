@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6b6add-a5a9-4b53-8994-e378c780da96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/98. Validate Binary Search Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/104. Maximum Depth of Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/572. Subtree of Another Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/572. Subtree of Another Tree.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
