@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6b6add-a5a9-4b53-8994-e378c780da96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/230. Kth Smallest Element in a BST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39. Combination Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/78. Subsets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/79. Word Search.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/102. Binary Tree Level Order Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/102. Binary Tree Level Order Traversal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
