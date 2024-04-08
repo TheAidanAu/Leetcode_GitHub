@@ -15,6 +15,6 @@ class Solution:
         return maxSum
 
 # time: O(N)
-
+# Space: O(1)
 
 
