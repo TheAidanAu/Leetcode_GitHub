@@ -6,6 +6,9 @@ class Solution:
         # add the first interval in the res array to avoid edge case
         # check the next start time and the prev end time
         # update the prev end time with the MAX of both end times in case the prev interval is longer
+        # Cases, not overlap and 2 overlapped cases
+        # ---            -----          ----------------
+        #       ------      -----             -----
         intervals.sort(key=lambda i: i[0])
         res = [intervals[0]]
 
