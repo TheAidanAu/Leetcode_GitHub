@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6b6add-a5a9-4b53-8994-e378c780da96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Meeting Schedule II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/435. Non-overlapping Intervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/435. Non-overlapping Intervals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/56. Merge Intervals.py" beforeDir="false" afterPath="$PROJECT_DIR$/56. Merge Intervals.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meeting Schedule II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Meeting Schedule II.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
