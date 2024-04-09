@@ -4,7 +4,7 @@ class Solution:
         # check each char, if it's a closing bracket
         # then you have 2 cases, either the stack is empty or not empty
         # append open bracket to the stack
-        # at the end, a valid paratheses will have an empty stack
+        # at the end, a valid paratheses will have an empty stackA
         closeToOpen = {")": "(",
                        "}": "{",
                        "]": "["}

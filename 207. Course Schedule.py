@@ -1,11 +1,13 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        # Build adjacency list with a hasp map
         # Iterates through all courses. For each course,
         # it checks if a cycle exists using the dfs function.
         # If it finds a cycle for any course, it returns False,
         # (indicating it is impossible to finish all courses. )
         # If no cycles are found for any course, it returns True,
         # (indicating it is possible to finish all courses.)
+        # Remember to backtrack
 
         # Map each course to its prerequisite list
         preMap = defaultdict(list)

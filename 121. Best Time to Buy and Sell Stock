@@ -1,10 +1,10 @@
 class Solution:
     def maxProfit(self, prices: List[int]) -> int:
         # Initialize 2 pointers at the first 2 indexes
+        # compare the next day's price with the current day's price
+        # if tomorrow is worth more, calculate the profit
+        # if tomorrow is worth less , you want to shift your left pointer all the way there
         # you want to buy at the lowest
-        # compare the right indexed price with the left indexed price
-        # so if you find the lowest price,
-        # you want to shift your left pointer all the way there
 
         maxProfit = 0
         l, r = 0, 1
