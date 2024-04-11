@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6b6add-a5a9-4b53-8994-e378c780da96" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/12. Integer to Roman.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2. Add Two Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36. Valid Sudoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. Longest Palindromic Substring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61. Rotate List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock" beforeDir="false" afterPath="$PROJECT_DIR$/121. Best Time to Buy and Sell Stock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20. Valid Parentheses" beforeDir="false" afterPath="$PROJECT_DIR$/20. Valid Parentheses" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/207. Course Schedule.py" beforeDir="false" afterPath="$PROJECT_DIR$/207. Course Schedule.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Meeting Schedule II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Meeting Schedule II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/39. Combination Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/39. Combination Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
