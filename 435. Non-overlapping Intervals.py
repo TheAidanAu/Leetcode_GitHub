@@ -1,13 +1,14 @@
 class Solution:
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
         # sort input intervals and iterate
-        # Look at prevEnd, check if it overlaps the current start
-        # if it doesn't, advance the prevEnd
-        # else increment the remove count and also update the prevEnd with a sooner end time
+        # prevEnd is initialized as the first sorted interval's end time
+        # interate through the sorted array
+        # best case is there's no overlap and prevEnd would be udpated with the current end time only
+        # if there's an overlap, update with an earlier end time
+        # increment the times to removal by 1
+
         # Greedy approach: take classes which ends as early as possible so that you can take as many classes as possible
         # overlapped cases:
-        # ---               --------            ----------
-        #.       -----           ------             ----
         intervals.sort()
         prevEnd = intervals[0][1]
         res = 0

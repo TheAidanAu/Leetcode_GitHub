@@ -7,6 +7,7 @@ class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         # Traverse both linked lists simultaneously add the digits in each linked list digit by digit,
         # considering any carryover, which is initialized as 0.
+        # Consider cases when both linked list are present, or 1 of them is present
         # remember to advance the pointer at every iteration
         # 1 edge case: 7+8 = 15, if there's still carry remaining
         dummy = cur = ListNode()
