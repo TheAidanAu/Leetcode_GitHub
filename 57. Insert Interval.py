@@ -20,5 +20,5 @@ class Solution:
         res.append(newInterval)
         return res
 
-# Time: O(N)
-# Space: O(N)   
+# Time: O(N)              
+# Space: O(N)
