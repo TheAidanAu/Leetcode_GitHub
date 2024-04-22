@@ -12,6 +12,9 @@ class Solution:
         # last case is either the split (1 left 1 right) or p/q is the cur node
         # then curr is lca
         # (if the curr reaches p or q, an ancestor is not further down)
+        if not root:
+            return None
+
         cur = root
 
         while cur:

@@ -25,7 +25,7 @@ class Solution:
             path.add((r, c))
 
             while q:
-                x, y = q.popleft()
+                x, y = q.popleft() #pop for DFS
                 directions = [[1, 0], [-1, 0], [0, 1], [0, -1]]
 
                 for dx, dy in directions:
