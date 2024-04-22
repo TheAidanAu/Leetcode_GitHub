@@ -20,6 +20,6 @@ class Solution:
                 else:
                     r = m - 1
 
-        return -1
+        return -1               
 # Time: o(lon N)
 # space: O(1)
