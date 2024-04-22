@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b6b6add-a5a9-4b53-8994-e378c780da96" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Amazon OA car weight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python DSA Course by freeCodeCamp/OA Max Temperature Change Prefix Sum PostFix Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/105. Construct Binary Tree from Preorder and Inorder Traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/200. Number of Islands BFS.py" beforeDir="false" afterPath="$PROJECT_DIR$/200. Number of Islands BFS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/235. Lowest Common Ancestor of a Binary Search Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Longest Substring Without Repeating Characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/57. Insert Interval.py" beforeDir="false" afterPath="$PROJECT_DIR$/57. Insert Interval.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon OA car weight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon OA car weight.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
